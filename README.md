@@ -1,4 +1,4 @@
-n the digital age, easy access to inappropriate and forbidden (haram) content has 
+In the digital age, easy access to inappropriate and forbidden (haram) content has 
 become a serious problem for individuals and society, especially for the Muslim 
 community that aims to uphold Islamic values. Existing digital filtering tools are often 
 insufficient or do not provide complete guidance from an Islamic perspective. 
