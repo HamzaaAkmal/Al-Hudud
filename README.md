@@ -2,9 +2,9 @@
 
 > 🛡️ The ultimate Chrome extension for Muslim families seeking safe, halal internet browsing
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=google-chrome)](link-to-chrome-store)
-[![Users](https://img.shields.io/badge/Users-50K+-green)](link-to-stats)
-[![Rating](https://img.shields.io/badge/Rating-4.9%2F5-yellow)](link-to-reviews)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?logo=google-chrome)](https://chromewebstore.google.com/detail/al-hudud-safe-browsing-fo/hkiffhldibaijfpfgnabjeeilmffnkkc)
+[![Users](https://img.shields.io/badge/Users-50K+-green)](https://alhudud.xyz/support)
+[![Rating](https://img.shields.io/badge/Rating-4.9%2F5-yellow)](https://alhudud.xyz)
 
 ## 🌟 Overview
 
